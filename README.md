@@ -1,6 +1,5 @@
 # 0N3X Tech
 
-[![0N3X Tech Animated Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)](https://github.com/0N3XTech)
 
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blue)](https://github.com/0N3XTech) [![Blockchain](https://img.shields.io/badge/Blockchain-Secure-orange)](https://github.com/0N3XTech) [![AI Agents](https://img.shields.io/badge/AI%20Agents-Intelligent-purple)](https://github.com/0N3XTech) [![Full Stack](https://img.shields.io/badge/Full%20Stack-Modern-green)](https://github.com/0N3XTech)
 
@@ -16,8 +15,6 @@
 
 ### 🚀 Web3 & Decentralization
 We build decentralized applications (dApps) that put control back into the hands of the people. By harnessing the power of smart contracts and decentralized protocols, we create secure and transparent systems for the future.
-
-![Web3 Animation](https://media.giphy.com/media/3o7aD6Fiv2Nz6w2T0k/giphy.gif)
 
 ### 🔗 Blockchain Technology
 Our blockchain solutions guarantee data integrity and security. From Ethereum smart contracts to multi-chain integrations, we provide robust solutions for scalable and trustworthy applications.
@@ -51,21 +48,6 @@ Our AI-driven chatbot integrates seamlessly into various platforms, offering rea
 
 ### Full Stack eCommerce Application
 An end-to-end eCommerce solution featuring modern web design, secure transactions, and a scalable infrastructure built for performance.
-
-[![Project Showcase](https://media.giphy.com/media/3ov9jNziFTMfzSumKw/giphy.gif)](https://github.com/0N3XTech)
-
----
-
-## Roadmap
-
-- **Q2 2025:**  
-  Launch next-gen decentralized applications with enhanced smart contract functionalities and AI integrations.
-
-- **Q3 2025:**  
-  Expand blockchain network partnerships and roll out advanced security protocols for our dApps.
-
-- **Q4 2025:**  
-  Introduce enterprise-level full stack projects and scalable solutions tailored for global businesses.
 
 ---
 
